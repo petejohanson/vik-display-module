@@ -1,0 +1,6 @@
+name: vik-display
+build:
+  depends:
+    - vik-core
+  settings:
+    board_root: .
